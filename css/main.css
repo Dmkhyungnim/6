@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-size:16px;
+	color:DarkTurquoise;
+	background-image:url("../images/tian3.jpg");
+	}
+h3{
+	color:#B6E9FA;
+	font-family:"方正舒体";
+	text-weight:normal;
+}
+h1{
+	text-align:center;
+	font-family:"方正舒体","黑体","宋体";
+	font-size:20px;
+	font-weight:normal;
+	color:#B6E9FA;
+  }
+h2{
+	font-family:"方正舒体";
+	font-size:16px;
+	font-weight:normal;
+	color:white;
+  }
+p{
+	line-height:2em;
+	font-family:Vivaldi, Times, serif;
+	text-decoration:none;
+ }
+.nav{
+	  background-color:#9F0;
+	  margin-left:15%;
+	  margin-right:15%;
+	  text-align:center;
+	  font-size:18px;
+	  background:url("../images/touxiang.jpg");
+	  border-radius:15px;
+	}
+.copyright{
+	        text-align:center;
+			margin-bottom:10px;
+			color:white;
+}
+.nabla{
+	width:0px;
+	height:0px;
+	border-top:10px solid pink;
+	border-left:10px solid transparent;
+	border-right:10px solid transparent;
+	}
+#container{
+	    margin:0 auto;
+		width:80%;
+		padding:5px 20px;
+		background-color:PaleTurquoise;
+		min-height:700px;
+		background-image:url("../images/tian2.jpg");
+	}
+.ul{
+	height:30px;
+	line-height:30px;
+	list-style-image:url(../images/mkt.jpg);
+	border-bottom:#FF9;
+	border-bottom-style:dotted;
+	border-bottom-width:medium;
+	}
